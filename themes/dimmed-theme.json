@@ -256,7 +256,6 @@
     "debugExceptionWidget.background": "#292e2e",
     "debugExceptionWidget.border": "#1b1d1d"
   },
-  "semanticHighlighting": true,
   "semanticTokenColors": {
     "keyword": {
       "foreground": "#a72d4c"
