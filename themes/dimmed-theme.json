@@ -117,7 +117,14 @@
     "editorGutter.addedBackground": "#587c0c",
     "editorGutter.deletedBackground": "#94151b",
     "editorGutter.foldingControlForeground": "#c5c5c5",
-    "editorCodeLens.foreground": "#999999",
+    "editorCodeLens.foreground": "#3d3d3d",
+    "editorInlayHint.foreground": "#3d3d3d",
+    "editorInlayHint.typeForeground": "#3d3d3d",
+    "editorInlayHint.parameterForeground": "#3d3d3d",    
+    "rust_analyzer.inlayHints.foreground": "#3d3d3d",
+    "rust_analyzer.inlayHints.foreground.typeHints": "#3d3d3d",
+    "rust_analyzer.inlayHints.foreground.paramHints": "#3d3d3d",
+    "rust_analyzer.inlayHints.background.chainingHints": "#3d3d3d",
     "editorGroup.border": "#444444",
     "diffEditor.insertedTextBackground": "#9bb95514",
     "diffEditor.insertedTextBorder": "#9bb95500",
@@ -318,10 +325,10 @@
       "foreground": "#547684"
     },
     "variable.constant": {
-      "foreground": "#3d3d3d"
+      "foreground": "#595959"
     },
     "variable.static": {
-      "foreground": "#3d3d3d"
+      "foreground": "#595959"
     },
     "number": {
       "foreground": "#67b41b"
@@ -546,7 +553,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#3d3d3d"  //  #b6b6b6
+        "foreground": "#595959"
       }
     },
     {
