@@ -2,7 +2,7 @@
     "name": "dimmed-theme",
     "displayName": "Dimmed Theme",
     "description": "A Visual Studio Code theme using low-contrast dimmed colors to lessen the stress on the eyes",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "alecaste",
     "engines": {
         "vscode": "^1.63.0"
