@@ -2,7 +2,7 @@
     "name": "dimmed-theme",
     "displayName": "Dimmed Theme",
     "description": "A Visual Studio Code theme using low-contrast dimmed colors to lessen the stress on the eyes",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "alecaste",
     "engines": {
         "vscode": "^1.63.0"
@@ -21,7 +21,7 @@
             {
                 "label": "dimmed-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dimmed-theme"
+                "path": "./themes/dimmed-theme.json"
             }
         ]
     }
